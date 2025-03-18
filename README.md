@@ -13,5 +13,5 @@ closestS3Region(37.7749, -122.4194))
 To provide regions available:
 
 ```js
-closestS3Region(37.7749, -122.4194, ['ap-southeast-2', 'us-west-1]);
+closestS3Region(37.7749, -122.4194, ['ap-southeast-2', 'us-west-1']);
 ```
